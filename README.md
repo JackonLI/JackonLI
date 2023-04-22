@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Jackon! 👋
+
+🔭 I’m currently studying computer science at CUHK as an undergraduate.
+
+🌱 I’m interested in game developing and machine learning.
+
+📫 How to reach me: email me at 1155157143@link.cuhk.edu.hk or ljq2635701604@163.com.
 
 <!--
 **JackonLI/JackonLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
