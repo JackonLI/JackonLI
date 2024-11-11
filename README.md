@@ -1,8 +1,8 @@
-### Hi there! I'm Jackon! 👋
+### Hi there! I'm Jianqiang LI! 👋
 
-🔭 I’m currently studying computer science at CUHK as an undergraduate.
+🔭 I’m studying Computer Science & Engineering at CUHK as a PhD student.
 
-🌱 I’m interested in game developing and machine learning.
+🌱 I’m interested in computer networks, machine learning, and LLMs.
 
 📫 How to reach me: email me at 1155157143@link.cuhk.edu.hk or ljq2635701604@163.com.
 
